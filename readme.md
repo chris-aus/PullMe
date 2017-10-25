@@ -1,5 +1,1 @@
-hey
-I
-just 
-met 
-you
+Hey, I just met you.
